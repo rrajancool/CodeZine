@@ -1,1 +1,1 @@
-# CodeZine
+# CodeZine technologies
